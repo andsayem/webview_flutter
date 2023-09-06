@@ -1,5 +1,4 @@
-markdown
-Copy code
+ 
 # Web Link View Flutter App
 
 A simple Flutter web application to display a web link using a WebView widget.
